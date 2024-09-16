@@ -419,6 +419,8 @@
 
 	.left {
 		position: fixed;
+		
+		
 		top: 70px; /* Adjusted to fit below the fixed header */
 		left: 0;
 		width: 30%; 
@@ -444,8 +446,8 @@
 		margin-left: 30%; 
 		width: 100%;
 		height: calc(100vh - 70px); 
-		background-color: #f0f0f0;
-		position: relative;
+		background-color: #ffffff;
+		position: fixed;
 		overflow: auto;
 	}
 
